@@ -28,3 +28,18 @@ Reset CSS utilizado
 
 Site para metrica de pixels
 `http://viewportsizes.com/`
+
+Site para fonts do google
+`https://fonts.google.com`
+
+- `float`
+- cria um novo contexto a frente da página
+- nunca esconde um conteúdo
+- tamanho fica com o tamanho do conteúdo
+
+- `overflow` (hidden)
+- recalcula o tamanho do pai quando os filhos estma em float
+
+- `margim` (respiro externo - entre elemento e conteúdo)
+
+- `padding` (respiro interno - entre element e elemento)
