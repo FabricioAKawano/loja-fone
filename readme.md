@@ -32,6 +32,9 @@ Site para metrica de pixels
 Site para fonts do google
 `https://fonts.google.com`
 
+Site de documentação de propriedades
+`https://developer.mozilla.org/en-US/docs/Web/CSS`
+
 - `float`
 - cria um novo contexto a frente da página
 - nunca esconde um conteúdo
