@@ -10,6 +10,7 @@
   font-family: "Arial MT", "Roboto", sans-serif;
   float: left;
   text-transform: uppercase;
+  cursor: pointer;
 }
 
 .header-store > .navigation {

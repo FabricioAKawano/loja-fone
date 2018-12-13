@@ -16,8 +16,16 @@
   margin-bottom: 28px;
 }
 
+.description-product > .item.-heart {
+  position: absolute;
+  transform: translateX(-100%);
+  left: -47px;
+  top: 8px;
+}
+
 .description-product > .item.-classification {
   margin-bottom: 10px;
+  cursor: pointer;
 }
 
 .description-product > .item.-classification + .item {
